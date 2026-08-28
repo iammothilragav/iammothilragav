@@ -1,6 +1,6 @@
 ## 🌠 About Me:
 
-🎓 I'm a **Final-year Computer Science & Engineering student**
+🎓 I'm a **Computer Science & Engineering** graduate.
 
 💻 Passionate about building real-world applications & learning modern technologies
 
